@@ -1,0 +1,554 @@
+{
+ "winforms-net": {
+  "runs_ok": 5,
+  "runs_failed": 0,
+  "first_screen_ms": {
+   "median": 2135,
+   "min": 1976,
+   "max": 5159
+  },
+  "first_screen_ms_after_run1": {
+   "median": 2153.5,
+   "min": 1999,
+   "max": 5159
+  },
+  "idle_private_mb": {
+   "median": 26.9,
+   "min": 26.7,
+   "max": 27.5
+  },
+  "idle_ws_mb": {
+   "median": 64.9,
+   "min": 64.8,
+   "max": 66.9
+  },
+  "idle_procs": {
+   "median": 1,
+   "min": 1,
+   "max": 1
+  },
+  "table_private_mb": {
+   "median": 54.7,
+   "min": 54.5,
+   "max": 54.9
+  },
+  "table_ws_mb": {
+   "median": 98.0,
+   "min": 95.0,
+   "max": 98.2
+  },
+  "peak_private_mb": {
+   "median": 60.8,
+   "min": 60.6,
+   "max": 61.1
+  },
+  "table_ready_ms": {
+   "median": 1480.9,
+   "min": 1426.3,
+   "max": 2418.2
+  },
+  "jump_med_ms": {
+   "median": 195.3,
+   "min": 150.1,
+   "max": 229.2
+  },
+  "jump_p95_ms": {
+   "median": 411.8,
+   "min": 245.9,
+   "max": 462.6
+  },
+  "wheel_med_ms": {
+   "median": 111.5,
+   "min": 105.9,
+   "max": 151.7
+  },
+  "wheel_p95_ms": {
+   "median": 169.6,
+   "min": 133.6,
+   "max": 255.1
+  }
+ },
+ "winforms-drawn": {
+  "runs_ok": 5,
+  "runs_failed": 0,
+  "first_screen_ms": {
+   "median": 1845,
+   "min": 1556,
+   "max": 3490
+  },
+  "first_screen_ms_after_run1": {
+   "median": 2351.0,
+   "min": 1610,
+   "max": 3490
+  },
+  "idle_private_mb": {
+   "median": 20.5,
+   "min": 20.4,
+   "max": 21.4
+  },
+  "idle_ws_mb": {
+   "median": 57.0,
+   "min": 56.9,
+   "max": 59.1
+  },
+  "idle_procs": {
+   "median": 1,
+   "min": 1,
+   "max": 1
+  },
+  "table_private_mb": {
+   "median": 28.5,
+   "min": 28.4,
+   "max": 28.5
+  },
+  "table_ws_mb": {
+   "median": 67.3,
+   "min": 67.0,
+   "max": 67.5
+  },
+  "peak_private_mb": {
+   "median": 28.5,
+   "min": 28.4,
+   "max": 28.5
+  },
+  "table_ready_ms": {
+   "median": 34.7,
+   "min": 27.2,
+   "max": 41.1
+  },
+  "jump_med_ms": {
+   "median": 30.6,
+   "min": 25.4,
+   "max": 35.7
+  },
+  "jump_p95_ms": {
+   "median": 34.6,
+   "min": 34.5,
+   "max": 118.2
+  },
+  "wheel_med_ms": {
+   "median": 36.3,
+   "min": 33.4,
+   "max": 40.1
+  },
+  "wheel_p95_ms": {
+   "median": 73.9,
+   "min": 44.6,
+   "max": 91.9
+  }
+ },
+ "winforms-net48": {
+  "runs_ok": 5,
+  "runs_failed": 0,
+  "first_screen_ms": {
+   "median": 1722,
+   "min": 985,
+   "max": 9959
+  },
+  "first_screen_ms_after_run1": {
+   "median": 1474.5,
+   "min": 985,
+   "max": 2480
+  },
+  "idle_private_mb": {
+   "median": 39.8,
+   "min": 39.7,
+   "max": 40.0
+  },
+  "idle_ws_mb": {
+   "median": 52.5,
+   "min": 52.5,
+   "max": 53.5
+  },
+  "idle_procs": {
+   "median": 1,
+   "min": 1,
+   "max": 1
+  },
+  "table_private_mb": {
+   "median": 73.4,
+   "min": 73.0,
+   "max": 73.4
+  },
+  "table_ws_mb": {
+   "median": 87.4,
+   "min": 84.6,
+   "max": 88.3
+  },
+  "peak_private_mb": {
+   "median": 80.9,
+   "min": 80.6,
+   "max": 80.9
+  },
+  "table_ready_ms": {
+   "median": 1857.9,
+   "min": 1799.1,
+   "max": 2043.7
+  },
+  "jump_med_ms": {
+   "median": 247.4,
+   "min": 218.9,
+   "max": 263.2
+  },
+  "jump_p95_ms": {
+   "median": 454.2,
+   "min": 360.6,
+   "max": 586.6
+  },
+  "wheel_med_ms": {
+   "median": 160.4,
+   "min": 149.5,
+   "max": 174.0
+  },
+  "wheel_p95_ms": {
+   "median": 281.3,
+   "min": 240.6,
+   "max": 292.4
+  }
+ },
+ "wpf-net": {
+  "runs_ok": 5,
+  "runs_failed": 0,
+  "first_screen_ms": {
+   "median": 3656,
+   "min": 2930,
+   "max": 5570
+  },
+  "first_screen_ms_after_run1": {
+   "median": 3443.5,
+   "min": 2930,
+   "max": 5570
+  },
+  "idle_private_mb": {
+   "median": 76.4,
+   "min": 75.8,
+   "max": 90.1
+  },
+  "idle_ws_mb": {
+   "median": 121.3,
+   "min": 120.4,
+   "max": 136.5
+  },
+  "idle_procs": {
+   "median": 1,
+   "min": 1,
+   "max": 1
+  },
+  "table_private_mb": {
+   "median": 119.8,
+   "min": 119.2,
+   "max": 123.8
+  },
+  "table_ws_mb": {
+   "median": 173.9,
+   "min": 173.6,
+   "max": 177.8
+  },
+  "peak_private_mb": {
+   "median": 146.4,
+   "min": 146.0,
+   "max": 154.1
+  },
+  "table_ready_ms": {
+   "median": 1168.8,
+   "min": 996.9,
+   "max": 1791.5
+  },
+  "jump_med_ms": {
+   "median": 282.3,
+   "min": 259.8,
+   "max": 310.7
+  },
+  "jump_p95_ms": {
+   "median": 396.0,
+   "min": 373.1,
+   "max": 471.2
+  },
+  "wheel_med_ms": {
+   "median": 116.0,
+   "min": 98.0,
+   "max": 119.7
+  },
+  "wheel_p95_ms": {
+   "median": 148.0,
+   "min": 136.7,
+   "max": 287.9
+  }
+ },
+ "webview2": {
+  "runs_ok": 5,
+  "runs_failed": 0,
+  "first_screen_ms": {
+   "median": 6100,
+   "min": 5831,
+   "max": 6540
+  },
+  "first_screen_ms_after_run1": {
+   "median": 6002.5,
+   "min": 5831,
+   "max": 6246
+  },
+  "idle_private_mb": {
+   "median": 251.5,
+   "min": 227.2,
+   "max": 255.5
+  },
+  "idle_ws_mb": {
+   "median": 505.3,
+   "min": 468.5,
+   "max": 509.4
+  },
+  "idle_procs": {
+   "median": 8,
+   "min": 7,
+   "max": 8
+  },
+  "table_private_mb": {
+   "median": 357.4,
+   "min": 354.0,
+   "max": 361.9
+  },
+  "table_ws_mb": {
+   "median": 630.7,
+   "min": 624.1,
+   "max": 645.6
+  },
+  "peak_private_mb": {
+   "median": 369.9,
+   "min": 367.3,
+   "max": 374.6
+  },
+  "table_ready_ms": {
+   "median": 108.6,
+   "min": 93.6,
+   "max": 111.9
+  },
+  "jump_med_ms": {
+   "median": 12.9,
+   "min": 12.3,
+   "max": 13.4
+  },
+  "jump_p95_ms": {
+   "median": 15.5,
+   "min": 15.0,
+   "max": 16.7
+  },
+  "wheel_med_ms": {
+   "median": 10.6,
+   "min": 10.0,
+   "max": 10.9
+  },
+  "wheel_p95_ms": {
+   "median": 12.1,
+   "min": 12.1,
+   "max": 12.6
+  }
+ },
+ "webview2-lean": {
+  "runs_ok": 5,
+  "runs_failed": 0,
+  "first_screen_ms": {
+   "median": 6486,
+   "min": 5875,
+   "max": 7293
+  },
+  "first_screen_ms_after_run1": {
+   "median": 6832.0,
+   "min": 5875,
+   "max": 7293
+  },
+  "idle_private_mb": {
+   "median": 204.0,
+   "min": 177.5,
+   "max": 206.4
+  },
+  "idle_ws_mb": {
+   "median": 491.8,
+   "min": 443.0,
+   "max": 499.7
+  },
+  "idle_procs": {
+   "median": 8,
+   "min": 7,
+   "max": 8
+  },
+  "table_private_mb": {
+   "median": 279.0,
+   "min": 277.1,
+   "max": 282.2
+  },
+  "table_ws_mb": {
+   "median": 585.4,
+   "min": 581.0,
+   "max": 592.7
+  },
+  "peak_private_mb": {
+   "median": 279.3,
+   "min": 279.0,
+   "max": 282.9
+  },
+  "table_ready_ms": {
+   "median": 83.2,
+   "min": 70.9,
+   "max": 87.4
+  },
+  "jump_med_ms": {
+   "median": 11.4,
+   "min": 10.9,
+   "max": 12.3
+  },
+  "jump_p95_ms": {
+   "median": 14.3,
+   "min": 13.1,
+   "max": 15.1
+  },
+  "wheel_med_ms": {
+   "median": 9.3,
+   "min": 8.7,
+   "max": 9.5
+  },
+  "wheel_p95_ms": {
+   "median": 10.3,
+   "min": 9.9,
+   "max": 10.8
+  }
+ },
+ "python-qt": {
+  "runs_ok": 5,
+  "runs_failed": 0,
+  "first_screen_ms": {
+   "median": 2941,
+   "min": 2513,
+   "max": 3975
+  },
+  "first_screen_ms_after_run1": {
+   "median": 3105.5,
+   "min": 2513,
+   "max": 3975
+  },
+  "idle_private_mb": {
+   "median": 42.6,
+   "min": 41.8,
+   "max": 43.4
+  },
+  "idle_ws_mb": {
+   "median": 81.8,
+   "min": 81.0,
+   "max": 82.2
+  },
+  "idle_procs": {
+   "median": 2,
+   "min": 2,
+   "max": 2
+  },
+  "table_private_mb": {
+   "median": 43.0,
+   "min": 42.2,
+   "max": 43.7
+  },
+  "table_ws_mb": {
+   "median": 82.9,
+   "min": 77.9,
+   "max": 83.3
+  },
+  "peak_private_mb": {
+   "median": 46.1,
+   "min": 45.3,
+   "max": 47.2
+  },
+  "table_ready_ms": {
+   "median": 370.7,
+   "min": 256.6,
+   "max": 2464.6
+  },
+  "jump_med_ms": {
+   "median": 177.2,
+   "min": 149.2,
+   "max": 181.2
+  },
+  "jump_p95_ms": {
+   "median": 361.9,
+   "min": 170.6,
+   "max": 561.1
+  },
+  "wheel_med_ms": {
+   "median": 150.0,
+   "min": 141.3,
+   "max": 176.0
+  },
+  "wheel_p95_ms": {
+   "median": 261.5,
+   "min": 176.1,
+   "max": 405.0
+  }
+ },
+ "chrome-headless": {
+  "runs_ok": 5,
+  "runs_failed": 0,
+  "first_screen_ms": {
+   "median": 14632,
+   "min": 8817,
+   "max": 18369
+  },
+  "first_screen_ms_after_run1": {
+   "median": 12689.5,
+   "min": 8817,
+   "max": 18369
+  },
+  "idle_private_mb": {
+   "median": 529.7,
+   "min": 463.6,
+   "max": 695.3
+  },
+  "idle_ws_mb": {
+   "median": 926.3,
+   "min": 809.0,
+   "max": 1232.8
+  },
+  "idle_procs": {
+   "median": 16,
+   "min": 14,
+   "max": 20
+  },
+  "table_private_mb": {
+   "median": 653.8,
+   "min": 539.2,
+   "max": 841.3
+  },
+  "table_ws_mb": {
+   "median": 1097.9,
+   "min": 889.1,
+   "max": 1446.3
+  },
+  "peak_private_mb": {
+   "median": 721.3,
+   "min": 636.6,
+   "max": 883.8
+  },
+  "table_ready_ms": {
+   "median": 71.1,
+   "min": 65.0,
+   "max": 75.5
+  },
+  "jump_med_ms": {
+   "median": 7.6,
+   "min": 6.8,
+   "max": 7.8
+  },
+  "jump_p95_ms": {
+   "median": 9.5,
+   "min": 8.3,
+   "max": 10.4
+  },
+  "wheel_med_ms": {
+   "median": 5.9,
+   "min": 5.5,
+   "max": 6.3
+  },
+  "wheel_p95_ms": {
+   "median": 6.8,
+   "min": 6.3,
+   "max": 7.5
+  }
+ }
+}

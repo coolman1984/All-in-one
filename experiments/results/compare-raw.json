@@ -1,0 +1,882 @@
+[
+ {
+  "stack": "winforms-net",
+  "run": 0,
+  "first_screen_ms": 1976,
+  "idle": {
+   "private_mb": 26.9,
+   "ws_mb": 65.0,
+   "procs": 1
+  },
+  "table_ready_ms": 1428.8,
+  "jump_med": 195.31,
+  "jump_p95": 415.15,
+  "wheel_med": 110.23,
+  "wheel_p95": 166.39,
+  "table": {
+   "private_mb": 54.7,
+   "ws_mb": 97.9,
+   "procs": 1
+  },
+  "peak_private_mb": 60.8,
+  "commit_before": 80.1
+ },
+ {
+  "stack": "winforms-drawn",
+  "run": 0,
+  "first_screen_ms": 1556,
+  "idle": {
+   "private_mb": 20.4,
+   "ws_mb": 57.0,
+   "procs": 1
+  },
+  "table_ready_ms": 34.7,
+  "jump_med": 30.58,
+  "jump_p95": 34.57,
+  "wheel_med": 34.5,
+  "wheel_p95": 44.63,
+  "table": {
+   "private_mb": 28.5,
+   "ws_mb": 67.1,
+   "procs": 1
+  },
+  "peak_private_mb": 28.5,
+  "commit_before": 77.4
+ },
+ {
+  "stack": "winforms-net48",
+  "run": 0,
+  "first_screen_ms": 9959,
+  "idle": {
+   "private_mb": 40.0,
+   "ws_mb": 52.7,
+   "procs": 1
+  },
+  "table_ready_ms": 1858.9,
+  "jump_med": 263.25,
+  "jump_p95": 586.6,
+  "wheel_med": 168.27,
+  "wheel_p95": 291.28,
+  "table": {
+   "private_mb": 73.4,
+   "ws_mb": 84.6,
+   "procs": 1
+  },
+  "peak_private_mb": 80.9,
+  "commit_before": 79.8
+ },
+ {
+  "stack": "wpf-net",
+  "run": 0,
+  "first_screen_ms": 4092,
+  "idle": {
+   "private_mb": 75.8,
+   "ws_mb": 121.3,
+   "procs": 1
+  },
+  "table_ready_ms": 1111.6,
+  "jump_med": 310.67,
+  "jump_p95": 395.96,
+  "wheel_med": 116.04,
+  "wheel_p95": 148.01,
+  "table": {
+   "private_mb": 120.3,
+   "ws_mb": 174.4,
+   "procs": 1
+  },
+  "peak_private_mb": 146.0,
+  "commit_before": 78.1
+ },
+ {
+  "stack": "webview2",
+  "run": 0,
+  "first_screen_ms": 6540,
+  "idle": {
+   "private_mb": 227.2,
+   "ws_mb": 468.5,
+   "procs": 7
+  },
+  "table_ready_ms": 93.6,
+  "jump_med": 12.7,
+  "jump_p95": 16.1,
+  "wheel_med": 10.6,
+  "wheel_p95": 12.2,
+  "table": {
+   "private_mb": 356.0,
+   "ws_mb": 645.6,
+   "procs": 8
+  },
+  "peak_private_mb": 369.9,
+  "commit_before": 78.2
+ },
+ {
+  "stack": "webview2-lean",
+  "run": 0,
+  "first_screen_ms": 6176,
+  "idle": {
+   "private_mb": 202.4,
+   "ws_mb": 499.7,
+   "procs": 8
+  },
+  "table_ready_ms": 83.2,
+  "jump_med": 11.8,
+  "jump_p95": 14.3,
+  "wheel_med": 8.7,
+  "wheel_p95": 9.9,
+  "table": {
+   "private_mb": 279.0,
+   "ws_mb": 592.7,
+   "procs": 8
+  },
+  "peak_private_mb": 279.2,
+  "commit_before": 78.0
+ },
+ {
+  "stack": "python-qt",
+  "run": 0,
+  "first_screen_ms": 2941,
+  "idle": {
+   "private_mb": 43.0,
+   "ws_mb": 82.0,
+   "procs": 2
+  },
+  "table_ready_ms": 328.6,
+  "jump_med": 177.15,
+  "jump_p95": 233.58,
+  "wheel_med": 159.21,
+  "wheel_p95": 261.48,
+  "table": {
+   "private_mb": 43.3,
+   "ws_mb": 83.1,
+   "procs": 2
+  },
+  "peak_private_mb": 46.5,
+  "commit_before": 78.1
+ },
+ {
+  "stack": "chrome-headless",
+  "run": 0,
+  "first_screen_ms": 14632,
+  "idle": {
+   "private_mb": 527.5,
+   "ws_mb": 925.2,
+   "procs": 16
+  },
+  "table_ready_ms": 74.6,
+  "jump_med": 7.8,
+  "jump_p95": 9.6,
+  "wheel_med": 6.0,
+  "wheel_p95": 6.8,
+  "table": {
+   "private_mb": 539.2,
+   "ws_mb": 889.1,
+   "procs": 12
+  },
+  "peak_private_mb": 745.6,
+  "commit_before": 76.7
+ },
+ {
+  "stack": "winforms-net",
+  "run": 1,
+  "first_screen_ms": 5159,
+  "idle": {
+   "private_mb": 27.5,
+   "ws_mb": 66.9,
+   "procs": 1
+  },
+  "table_ready_ms": 1480.9,
+  "jump_med": 219.34,
+  "jump_p95": 411.84,
+  "wheel_med": 151.67,
+  "wheel_p95": 255.13,
+  "table": {
+   "private_mb": 54.5,
+   "ws_mb": 98.2,
+   "procs": 1
+  },
+  "peak_private_mb": 60.6,
+  "commit_before": 82.1
+ },
+ {
+  "stack": "winforms-drawn",
+  "run": 1,
+  "first_screen_ms": 3490,
+  "idle": {
+   "private_mb": 21.4,
+   "ws_mb": 59.1,
+   "procs": 1
+  },
+  "table_ready_ms": 36.9,
+  "jump_med": 35.71,
+  "jump_p95": 45.67,
+  "wheel_med": 38.15,
+  "wheel_p95": 91.89,
+  "table": {
+   "private_mb": 28.4,
+   "ws_mb": 67.5,
+   "procs": 1
+  },
+  "peak_private_mb": 28.5,
+  "commit_before": 81.3
+ },
+ {
+  "stack": "winforms-net48",
+  "run": 1,
+  "first_screen_ms": 1227,
+  "idle": {
+   "private_mb": 39.8,
+   "ws_mb": 52.5,
+   "procs": 1
+  },
+  "table_ready_ms": 2043.7,
+  "jump_med": 246.37,
+  "jump_p95": 454.25,
+  "wheel_med": 174.0,
+  "wheel_p95": 271.42,
+  "table": {
+   "private_mb": 73.0,
+   "ws_mb": 87.0,
+   "procs": 1
+  },
+  "peak_private_mb": 80.6,
+  "commit_before": 78.9
+ },
+ {
+  "stack": "wpf-net",
+  "run": 1,
+  "first_screen_ms": 3656,
+  "idle": {
+   "private_mb": 90.1,
+   "ws_mb": 136.5,
+   "procs": 1
+  },
+  "table_ready_ms": 996.9,
+  "jump_med": 286.5,
+  "jump_p95": 471.16,
+  "wheel_med": 116.13,
+  "wheel_p95": 287.94,
+  "table": {
+   "private_mb": 123.8,
+   "ws_mb": 177.8,
+   "procs": 1
+  },
+  "peak_private_mb": 154.1,
+  "commit_before": 77.1
+ },
+ {
+  "stack": "webview2",
+  "run": 1,
+  "first_screen_ms": 5831,
+  "idle": {
+   "private_mb": 255.5,
+   "ws_mb": 508.4,
+   "procs": 8
+  },
+  "table_ready_ms": 94.9,
+  "jump_med": 12.9,
+  "jump_p95": 15.3,
+  "wheel_med": 10.6,
+  "wheel_p95": 12.1,
+  "table": {
+   "private_mb": 361.9,
+   "ws_mb": 630.7,
+   "procs": 8
+  },
+  "peak_private_mb": 374.6,
+  "commit_before": 77.2
+ },
+ {
+  "stack": "webview2-lean",
+  "run": 1,
+  "first_screen_ms": 7178,
+  "idle": {
+   "private_mb": 205.6,
+   "ws_mb": 491.8,
+   "procs": 8
+  },
+  "table_ready_ms": 70.9,
+  "jump_med": 10.9,
+  "jump_p95": 13.1,
+  "wheel_med": 9.3,
+  "wheel_p95": 10.3,
+  "table": {
+   "private_mb": 282.2,
+   "ws_mb": 584.8,
+   "procs": 8
+  },
+  "peak_private_mb": 282.9,
+  "commit_before": 80.6
+ },
+ {
+  "stack": "python-qt",
+  "run": 1,
+  "first_screen_ms": 3975,
+  "idle": {
+   "private_mb": 42.5,
+   "ws_mb": 81.8,
+   "procs": 2
+  },
+  "table_ready_ms": 2464.6,
+  "jump_med": 181.21,
+  "jump_p95": 561.15,
+  "wheel_med": 150.02,
+  "wheel_p95": 386.15,
+  "table": {
+   "private_mb": 43.0,
+   "ws_mb": 82.9,
+   "procs": 2
+  },
+  "peak_private_mb": 46.1,
+  "commit_before": 79.3
+ },
+ {
+  "stack": "chrome-headless",
+  "run": 1,
+  "first_screen_ms": 8817,
+  "idle": {
+   "private_mb": 463.6,
+   "ws_mb": 809.0,
+   "procs": 15
+  },
+  "table_ready_ms": 65.3,
+  "jump_med": 7.6,
+  "jump_p95": 9.5,
+  "wheel_med": 6.3,
+  "wheel_p95": 7.5,
+  "table": {
+   "private_mb": 653.8,
+   "ws_mb": 1097.9,
+   "procs": 18
+  },
+  "peak_private_mb": 669.8,
+  "commit_before": 81.8
+ },
+ {
+  "stack": "winforms-net",
+  "run": 2,
+  "first_screen_ms": 2135,
+  "idle": {
+   "private_mb": 26.7,
+   "ws_mb": 64.8,
+   "procs": 1
+  },
+  "table_ready_ms": 1426.3,
+  "jump_med": 150.12,
+  "jump_p95": 245.92,
+  "wheel_med": 111.54,
+  "wheel_p95": 169.64,
+  "table": {
+   "private_mb": 54.8,
+   "ws_mb": 95.0,
+   "procs": 1
+  },
+  "peak_private_mb": 61.1,
+  "commit_before": 80.7
+ },
+ {
+  "stack": "winforms-drawn",
+  "run": 2,
+  "first_screen_ms": 1845,
+  "idle": {
+   "private_mb": 20.5,
+   "ws_mb": 57.0,
+   "procs": 1
+  },
+  "table_ready_ms": 31.8,
+  "jump_med": 25.42,
+  "jump_p95": 34.54,
+  "wheel_med": 36.34,
+  "wheel_p95": 73.94,
+  "table": {
+   "private_mb": 28.5,
+   "ws_mb": 67.3,
+   "procs": 1
+  },
+  "peak_private_mb": 28.5,
+  "commit_before": 76.9
+ },
+ {
+  "stack": "winforms-net48",
+  "run": 2,
+  "first_screen_ms": 2480,
+  "idle": {
+   "private_mb": 39.8,
+   "ws_mb": 52.5,
+   "procs": 1
+  },
+  "table_ready_ms": 1805.1,
+  "jump_med": 251.33,
+  "jump_p95": 489.86,
+  "wheel_med": 151.97,
+  "wheel_p95": 240.64,
+  "table": {
+   "private_mb": 73.4,
+   "ws_mb": 87.4,
+   "procs": 1
+  },
+  "peak_private_mb": 80.9,
+  "commit_before": 81.8
+ },
+ {
+  "stack": "wpf-net",
+  "run": 2,
+  "first_screen_ms": 5570,
+  "idle": {
+   "private_mb": 88.1,
+   "ws_mb": 134.9,
+   "procs": 1
+  },
+  "table_ready_ms": 1312.5,
+  "jump_med": 259.8,
+  "jump_p95": 381.35,
+  "wheel_med": 119.74,
+  "wheel_p95": 193.37,
+  "table": {
+   "private_mb": 119.2,
+   "ws_mb": 173.7,
+   "procs": 1
+  },
+  "peak_private_mb": 149.0,
+  "commit_before": 81.2
+ },
+ {
+  "stack": "webview2",
+  "run": 2,
+  "first_screen_ms": 6246,
+  "idle": {
+   "private_mb": 255.1,
+   "ws_mb": 509.4,
+   "procs": 8
+  },
+  "table_ready_ms": 111.4,
+  "jump_med": 13.0,
+  "jump_p95": 15.5,
+  "wheel_med": 10.9,
+  "wheel_p95": 12.6,
+  "table": {
+   "private_mb": 361.1,
+   "ws_mb": 630.9,
+   "procs": 8
+  },
+  "peak_private_mb": 372.6,
+  "commit_before": 76.9
+ },
+ {
+  "stack": "webview2-lean",
+  "run": 2,
+  "first_screen_ms": 7293,
+  "idle": {
+   "private_mb": 204.0,
+   "ws_mb": 491.8,
+   "procs": 8
+  },
+  "table_ready_ms": 81.5,
+  "jump_med": 11.2,
+  "jump_p95": 14.5,
+  "wheel_med": 9.3,
+  "wheel_p95": 10.7,
+  "table": {
+   "private_mb": 278.3,
+   "ws_mb": 585.4,
+   "procs": 8
+  },
+  "peak_private_mb": 279.3,
+  "commit_before": 80.9
+ },
+ {
+  "stack": "python-qt",
+  "run": 2,
+  "first_screen_ms": 2717,
+  "idle": {
+   "private_mb": 41.8,
+   "ws_mb": 81.1,
+   "procs": 2
+  },
+  "table_ready_ms": 1110.0,
+  "jump_med": 180.66,
+  "jump_p95": 361.86,
+  "wheel_med": 176.03,
+  "wheel_p95": 404.97,
+  "table": {
+   "private_mb": 42.2,
+   "ws_mb": 82.1,
+   "procs": 2
+  },
+  "peak_private_mb": 45.3,
+  "commit_before": 76.7
+ },
+ {
+  "stack": "chrome-headless",
+  "run": 2,
+  "first_screen_ms": 18369,
+  "idle": {
+   "private_mb": 529.7,
+   "ws_mb": 926.3,
+   "procs": 18
+  },
+  "table_ready_ms": 65.0,
+  "jump_med": 6.8,
+  "jump_p95": 8.3,
+  "wheel_med": 5.5,
+  "wheel_p95": 6.3,
+  "table": {
+   "private_mb": 707.3,
+   "ws_mb": 1194.2,
+   "procs": 21
+  },
+  "peak_private_mb": 721.3,
+  "commit_before": 76.8
+ },
+ {
+  "stack": "winforms-net",
+  "run": 3,
+  "first_screen_ms": 1999,
+  "idle": {
+   "private_mb": 26.9,
+   "ws_mb": 64.9,
+   "procs": 1
+  },
+  "table_ready_ms": 1545.4,
+  "jump_med": 229.21,
+  "jump_p95": 462.58,
+  "wheel_med": 130.36,
+  "wheel_p95": 189.12,
+  "table": {
+   "private_mb": 54.9,
+   "ws_mb": 98.2,
+   "procs": 1
+  },
+  "peak_private_mb": 61.0,
+  "commit_before": 77.6
+ },
+ {
+  "stack": "winforms-drawn",
+  "run": 3,
+  "first_screen_ms": 2857,
+  "idle": {
+   "private_mb": 21.4,
+   "ws_mb": 59.1,
+   "procs": 1
+  },
+  "table_ready_ms": 41.1,
+  "jump_med": 35.37,
+  "jump_p95": 118.24,
+  "wheel_med": 40.07,
+  "wheel_p95": 78.89,
+  "table": {
+   "private_mb": 28.4,
+   "ws_mb": 67.4,
+   "procs": 1
+  },
+  "peak_private_mb": 28.4,
+  "commit_before": 78.7
+ },
+ {
+  "stack": "winforms-net48",
+  "run": 3,
+  "first_screen_ms": 1722,
+  "idle": {
+   "private_mb": 39.7,
+   "ws_mb": 52.5,
+   "procs": 1
+  },
+  "table_ready_ms": 1857.9,
+  "jump_med": 247.39,
+  "jump_p95": 427.59,
+  "wheel_med": 149.52,
+  "wheel_p95": 292.35,
+  "table": {
+   "private_mb": 73.4,
+   "ws_mb": 87.4,
+   "procs": 1
+  },
+  "peak_private_mb": 80.9,
+  "commit_before": 77.5
+ },
+ {
+  "stack": "wpf-net",
+  "run": 3,
+  "first_screen_ms": 3231,
+  "idle": {
+   "private_mb": 76.4,
+   "ws_mb": 120.4,
+   "procs": 1
+  },
+  "table_ready_ms": 1791.5,
+  "jump_med": 276.76,
+  "jump_p95": 373.06,
+  "wheel_med": 106.62,
+  "wheel_p95": 139.29,
+  "table": {
+   "private_mb": 119.6,
+   "ws_mb": 173.6,
+   "procs": 1
+  },
+  "peak_private_mb": 146.1,
+  "commit_before": 76.8
+ },
+ {
+  "stack": "webview2",
+  "run": 3,
+  "first_screen_ms": 5905,
+  "idle": {
+   "private_mb": 240.4,
+   "ws_mb": 484.3,
+   "procs": 8
+  },
+  "table_ready_ms": 108.6,
+  "jump_med": 12.3,
+  "jump_p95": 15.0,
+  "wheel_med": 10.0,
+  "wheel_p95": 12.1,
+  "table": {
+   "private_mb": 354.0,
+   "ws_mb": 624.1,
+   "procs": 8
+  },
+  "peak_private_mb": 367.5,
+  "commit_before": 76.2
+ },
+ {
+  "stack": "webview2-lean",
+  "run": 3,
+  "first_screen_ms": 5875,
+  "idle": {
+   "private_mb": 206.4,
+   "ws_mb": 496.8,
+   "procs": 8
+  },
+  "table_ready_ms": 83.3,
+  "jump_med": 11.4,
+  "jump_p95": 13.6,
+  "wheel_med": 8.9,
+  "wheel_p95": 10.1,
+  "table": {
+   "private_mb": 281.6,
+   "ws_mb": 588.9,
+   "procs": 8
+  },
+  "peak_private_mb": 282.1,
+  "commit_before": 77.0
+ },
+ {
+  "stack": "python-qt",
+  "run": 3,
+  "first_screen_ms": 2513,
+  "idle": {
+   "private_mb": 42.6,
+   "ws_mb": 81.0,
+   "procs": 2
+  },
+  "table_ready_ms": 256.6,
+  "jump_med": 149.17,
+  "jump_p95": 170.56,
+  "wheel_med": 144.47,
+  "wheel_p95": 176.11,
+  "table": {
+   "private_mb": 42.8,
+   "ws_mb": 77.9,
+   "procs": 2
+  },
+  "peak_private_mb": 46.0,
+  "commit_before": 76.8
+ },
+ {
+  "stack": "chrome-headless",
+  "run": 3,
+  "first_screen_ms": 10133,
+  "idle": {
+   "private_mb": 542.6,
+   "ws_mb": 944.3,
+   "procs": 14
+  },
+  "table_ready_ms": 71.1,
+  "jump_med": 7.4,
+  "jump_p95": 8.9,
+  "wheel_med": 5.9,
+  "wheel_p95": 6.8,
+  "table": {
+   "private_mb": 595.8,
+   "ws_mb": 990.1,
+   "procs": 12
+  },
+  "peak_private_mb": 636.6,
+  "commit_before": 76.4
+ },
+ {
+  "stack": "winforms-net",
+  "run": 4,
+  "first_screen_ms": 2172,
+  "idle": {
+   "private_mb": 26.7,
+   "ws_mb": 64.8,
+   "procs": 1
+  },
+  "table_ready_ms": 2418.2,
+  "jump_med": 158.18,
+  "jump_p95": 282.98,
+  "wheel_med": 105.89,
+  "wheel_p95": 133.59,
+  "table": {
+   "private_mb": 54.6,
+   "ws_mb": 98.0,
+   "procs": 1
+  },
+  "peak_private_mb": 60.8,
+  "commit_before": 79.2
+ },
+ {
+  "stack": "winforms-drawn",
+  "run": 4,
+  "first_screen_ms": 1610,
+  "idle": {
+   "private_mb": 20.5,
+   "ws_mb": 56.9,
+   "procs": 1
+  },
+  "table_ready_ms": 27.2,
+  "jump_med": 25.99,
+  "jump_p95": 34.53,
+  "wheel_med": 33.41,
+  "wheel_p95": 50.66,
+  "table": {
+   "private_mb": 28.5,
+   "ws_mb": 67.0,
+   "procs": 1
+  },
+  "peak_private_mb": 28.5,
+  "commit_before": 80.5
+ },
+ {
+  "stack": "winforms-net48",
+  "run": 4,
+  "first_screen_ms": 985,
+  "idle": {
+   "private_mb": 40.0,
+   "ws_mb": 53.5,
+   "procs": 1
+  },
+  "table_ready_ms": 1799.1,
+  "jump_med": 218.92,
+  "jump_p95": 360.6,
+  "wheel_med": 160.42,
+  "wheel_p95": 281.27,
+  "table": {
+   "private_mb": 73.4,
+   "ws_mb": 88.3,
+   "procs": 1
+  },
+  "peak_private_mb": 80.9,
+  "commit_before": 80.6
+ },
+ {
+  "stack": "wpf-net",
+  "run": 4,
+  "first_screen_ms": 2930,
+  "idle": {
+   "private_mb": 76.1,
+   "ws_mb": 120.5,
+   "procs": 1
+  },
+  "table_ready_ms": 1168.8,
+  "jump_med": 282.3,
+  "jump_p95": 418.79,
+  "wheel_med": 98.05,
+  "wheel_p95": 136.72,
+  "table": {
+   "private_mb": 119.8,
+   "ws_mb": 173.9,
+   "procs": 1
+  },
+  "peak_private_mb": 146.4,
+  "commit_before": 80.1
+ },
+ {
+  "stack": "webview2",
+  "run": 4,
+  "first_screen_ms": 6100,
+  "idle": {
+   "private_mb": 251.5,
+   "ws_mb": 505.3,
+   "procs": 8
+  },
+  "table_ready_ms": 111.9,
+  "jump_med": 13.4,
+  "jump_p95": 16.7,
+  "wheel_med": 10.4,
+  "wheel_p95": 12.1,
+  "table": {
+   "private_mb": 357.4,
+   "ws_mb": 627.7,
+   "procs": 8
+  },
+  "peak_private_mb": 367.3,
+  "commit_before": 80.5
+ },
+ {
+  "stack": "webview2-lean",
+  "run": 4,
+  "first_screen_ms": 6486,
+  "idle": {
+   "private_mb": 177.5,
+   "ws_mb": 443.0,
+   "procs": 7
+  },
+  "table_ready_ms": 87.4,
+  "jump_med": 12.3,
+  "jump_p95": 15.1,
+  "wheel_med": 9.5,
+  "wheel_p95": 10.8,
+  "table": {
+   "private_mb": 277.1,
+   "ws_mb": 581.0,
+   "procs": 8
+  },
+  "peak_private_mb": 279.0,
+  "commit_before": 80.9
+ },
+ {
+  "stack": "python-qt",
+  "run": 4,
+  "first_screen_ms": 3494,
+  "idle": {
+   "private_mb": 43.4,
+   "ws_mb": 82.2,
+   "procs": 2
+  },
+  "table_ready_ms": 370.7,
+  "jump_med": 175.58,
+  "jump_p95": 468.38,
+  "wheel_med": 141.3,
+  "wheel_p95": 227.47,
+  "table": {
+   "private_mb": 43.7,
+   "ws_mb": 83.3,
+   "procs": 2
+  },
+  "peak_private_mb": 47.2,
+  "commit_before": 81.7
+ },
+ {
+  "stack": "chrome-headless",
+  "run": 4,
+  "first_screen_ms": 15246,
+  "idle": {
+   "private_mb": 695.3,
+   "ws_mb": 1232.8,
+   "procs": 20
+  },
+  "table_ready_ms": 75.5,
+  "jump_med": 7.8,
+  "jump_p95": 10.4,
+  "wheel_med": 5.8,
+  "wheel_p95": 6.8,
+  "table": {
+   "private_mb": 841.3,
+   "ws_mb": 1446.3,
+   "procs": 22
+  },
+  "peak_private_mb": 883.8,
+  "commit_before": 80.0
+ }
+]
